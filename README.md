@@ -1,0 +1,2 @@
+# SlackApp
+Clone Slack Application
